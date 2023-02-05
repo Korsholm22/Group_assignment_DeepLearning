@@ -11,6 +11,7 @@ The notebook goes through the following process:
 4. Experimentation with hyperparameters
 5. Model evaluation
 6. Model demonstration in Gradio
+
 An example model is imported as default for experimentation with hyperparameters, based on which 6 experiments are conducted. The experiments touch upon the following types of hyperparameters:
 
 Experiment 1: Activation Function
