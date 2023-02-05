@@ -25,6 +25,7 @@ Experiment 5: Learning Rate
 
 Experiment 6: Loss Function
 
+
 The models are then evaluated on the test data by means of R^2 and MSE and the best performing model is demonstrated in Gradio.
 
 If wanted, the other models can be implemented and demonstrated in Gradio as well.
