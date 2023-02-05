@@ -1,4 +1,4 @@
-# Group_Assignment_1_DeepLearning
+# Group_Assignment_1
 Nadia, Nikolaj & Nicklas
 ## Group Assignment 1
 This repository contains an Airbnb price prediction model created with Pytorch and demonstrated in Gradio.
