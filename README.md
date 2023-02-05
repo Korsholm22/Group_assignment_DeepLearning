@@ -1,4 +1,4 @@
-# M4_Group_Assignments
+# M4 Group Assignments
 Group members: Nadia, Nikolaj & Nicklas
 
 ## Group Assignment 1
