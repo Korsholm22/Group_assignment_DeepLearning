@@ -39,7 +39,7 @@ If wanted, the other models can be implemented and demonstrated in Gradio as wel
 
 
 
-## Group Assingment 2
+## Group Assignment 2
 This folder contains a CNN image classification model and a LSTM temperature prediction model created with pytorch.
 
 The notebooks go through the following process:
