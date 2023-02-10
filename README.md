@@ -1,8 +1,12 @@
 # M4 Group Assignments
 Group members: Nadia, Nikolaj & Nicklas
 
+This repository contains group assignments for BDS M4. A seperate folder is created for each assignment and the repository currently holds:
+- [Group Assignment 1](Group_assingment_1.md)
+- [Group Assignment 2](Group_assingment_2.md)
+
 ## Group Assignment 1
-This repository contains an Airbnb price prediction model created with Pytorch and demonstrated in Gradio.
+This folder contains an Airbnb price prediction model created with Pytorch and demonstrated in Gradio.
 
 The notebook goes through the following process:
 
