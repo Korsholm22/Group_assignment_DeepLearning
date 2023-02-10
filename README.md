@@ -48,4 +48,3 @@ The notebooks go through the following process:
 3. Definition and training of a neural network model with Pytorch
 4. Experimentation with hyperparameters
 5. Model evaluation
-6. Model demonstration in Gradio
