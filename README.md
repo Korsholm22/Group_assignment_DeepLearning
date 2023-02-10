@@ -2,7 +2,9 @@
 Group members: Nadia, Nikolaj & Nicklas
 
 This repository contains group assignments for BDS M4. A seperate folder is created for each assignment and the repository currently holds:
-- [Group Assignment 1](Group_assingment_1/Group_Assignment_1.ipynb)
+- Description: https://github.com/Korsholm22/M4_Group_Assignments#group-assignment-1
+  Notebook: [Group Assignment 1](Group_assingment_1/Group_Assignment_1.ipynb)
+  
 - [Group Assignment 2](Group_Assignment_2/Group_Assignment_2.ipynb)
 
 ## Group Assignment 1
