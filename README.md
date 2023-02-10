@@ -2,8 +2,9 @@
 Group members: Nadia, Nikolaj & Nicklas
 
 This repository contains group assignments for BDS M4. A seperate folder is created for each assignment and the repository currently holds:
-- [Group Assignment 1 - Notebook](Group_assingment_1/Group_Assignment_1.ipynb)
-- [Group Assignment 2 - Notebook](Group_Assignment_2/Group_Assignment_2.ipynb)
+- [Group Assignment 1 - Notebook](Group_Assignment_1/Group_Assignment_1.ipynb)
+- [Group Assignment 2 - CNN - Notebook](Group_Assignment_2/Group_Assignment_2_CNN.ipynb)
+- [Group Assignment 2 - LSTM - Notebook](Group_Assignment_2/Group_Assignment_2_LSTM.ipynb)
 
 ## Group Assignment 1
 This folder contains an Airbnb price prediction model created with Pytorch and demonstrated in Gradio.
