@@ -39,15 +39,12 @@ If wanted, the other models can be implemented and demonstrated in Gradio as wel
 
 
 
-## Group Assingment 2
-The Notebook goes through the following process:
+## Group Assignment 2
+This folder contains a CNN image classification model and a LSTM temperature prediction model created with pytorch.
 
-1. Feature selection and/or engineering (if necessary)
-2. SPreprocessing (if necessary)
-3. Train-test split.
-4. Defining a neural network architecture in putorch
-5. Define a training loop.
-6. training the model.
-7. Try out different hyperparameters.
-8. Evaluate the final model on the test data.
-9. Visualize results with Grad.io
+The notebooks go through the following process:
+1. Data preprocessing
+2. Feature engineering
+3. Definition and training of a neural network model with Pytorch
+4. Experimentation with hyperparameters
+5. Model evaluation
