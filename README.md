@@ -77,7 +77,7 @@ The notebook contains the following:
 5. Gradio with Google API
 
 Links:
-[Real-time demo for Japanese speech recognition](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model)
-[Japanese to English translator](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_2)
-[Convert Japanese speech to text, get pronunciation and translation to English](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_3)
+- [Real-time demo for Japanese speech recognition](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model)
+- [Japanese to English translator](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_2)
+- [Convert Japanese speech to text, get pronunciation and translation to English](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_3)
 
