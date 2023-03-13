@@ -6,7 +6,7 @@ This repository contains group assignments for BDS M4. A seperate folder is crea
 - [Group Assignment 2 - CNN - Notebook](Group_Assignment_2/Group_Assignment_2_CNN.ipynb)
 - [Group Assignment 2 - LSTM - Notebook](Group_Assignment_2/Group_Assignment_2_LSTM.ipynb)
 - [Group Assignment 3 - Notebook](Group_Assignment_3/Group_Assignment_3.ipynb)
-- [Group Assignment 4 - Notebook] (Group_Assignment_4/Group_Assignment_4.ipynb)
+- [Group Assignment 4 - Notebook](Group_Assignment_4/Group_Assignment_4.ipynb)
 
 
 ## Group Assignment 1
@@ -77,7 +77,7 @@ The notebook contains the following:
 5. Gradio with Google API
 
 Links:
-[Real-time demo for Japanese speech recognition] (https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model)
-[Japanese to English translator] (https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_2)
-[Convert Japanese speech to text, get pronunciation and translation to English] (https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_3)
+[Real-time demo for Japanese speech recognition](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model)
+[Japanese to English translator](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_2)
+[Convert Japanese speech to text, get pronunciation and translation to English](https://huggingface.co/spaces/NadiaHolmlund/Japanese_Fine_Tuned_Whisper_Model_3)
 
